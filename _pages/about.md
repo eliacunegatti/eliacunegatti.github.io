@@ -20,6 +20,7 @@ Outside my research, I also do some fun stuff 😉, check out [here](https://www
 Updates 🔥
 ======
 
+
 > **12 Novemeber '24** - NeuroAL on ArXiv <br>
 *Zeroth-Order Adaptive Neuron Alignment Based Pruning without Re-Training* preprint is available on ArXiv. 
 [paper](https://arxiv.org/abs/2411.07066v1) [code](https://github.com/eliacunegatti/NeuroAL)
@@ -37,14 +38,3 @@ Updates 🔥
 </p>
 
 <hr style="border: 1px solid black;">
-
-> **27 April '24** - Paper published at TMLR <br>
-*Understanding Sparse Neural Networks from their Topology via Multipartite Graph Representations* has been accepted at Transaction of Machine Learing (TMLR). [paper](https://openreview.net/pdf?id=Egb0tUZnOY) [code](https://github.com/eliacunegatti/mge-snn)
-
-**TLDR** a multi-partite end-to-end graph encoding for Sparse Neural Networks and an in-depth analysis about the topological metrics that can explain the goodd/bad performance of such sparse models. 
-
-<p align="center">
-  <img src="images/Resnet-20-ERK-98.png" alt="Project logo" width="1000"/>
-  <br>
-  <em>Our proposed Multi-Partite Graph Represenation.</em>
-</p>
