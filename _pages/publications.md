@@ -34,3 +34,8 @@ author_profile: true
 {% endif %}
 {% endfor %}
 {% endif %}
+
+
+<hr style="border: 1px solid black;">
+
+*Kudos to all the co-authors!!* 🎉👌🏻 
