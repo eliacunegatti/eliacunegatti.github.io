@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 {% include base_path %}
-___
 
 <a href="/files/EliaCunegatti_CV.pdf" class="btn btn-primary" target="_blank">📄 Download My CV</a>
 
 
 ## Education  
+___
 - **PhD in Computer Science**  
   University of Trento, Trento, Italy 🇮🇹🏔️ <br>
   *November 2022 – Ongoing*  
@@ -31,18 +31,19 @@ ___
   *September 2017 – September 2020*  
   Final Grade: *107/110*  
 
-___
 
 
 ## Research Experience  
+___
 - **Research Internship (Exchange Student)**  
   University of Twente, Enschede, The Netherlands 🇳🇱🚲🌧️  <br>
   *March 2022 – July 2022*  
   - Project focused on applying AI to complex networks, linking Network Science and Deep Learning.  
 
-___
+
 
 ## Conferences  
+___
 - **GECCO 2024** - The Genetic and Evolutionary Computation Conference  
   *July 14–18, 2024, Melbourne, Australia* 🇦🇺🐍
 
@@ -55,9 +56,10 @@ ___
 - **PPSN XVII** - Parallel Problem Solving from Nature  
   *September 10–14, 2022, Dortmund, Germany*  🇩🇪🍺
 
-___
 
-## Honors and Awards  
+
+## Honors and Awards
+___  
 - **Scholarship for attending ICLR 2023 Conference**  
   *May 2023*  
 
@@ -75,4 +77,3 @@ ___
 
 - **University of Trento Merit Scholarship**  
   *2019, 2020, 2021, 2022*  
-___
