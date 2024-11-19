@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Elia's Website (under construction ...)"
+title                    : "Elia's Website"
 title_separator          : "-"
 name                     : &name "Elia Cunegatti"
 description              : &description "PhD Student"

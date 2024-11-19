@@ -37,5 +37,3 @@ Updates 🔥
   <img src="images/neuroal_tab2.png" alt="Project logo" width="1000"/>
   <br>
 </p>
-
-<hr style="border: 1px solid black;">
