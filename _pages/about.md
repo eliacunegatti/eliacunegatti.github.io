@@ -14,7 +14,8 @@ Hi everyone!  <br>
 I'm Elia Cunegatti, a third-year Ph.D. student at the University of Trento, Italy ⛰️.<br> 
 On this website, you’ll find everything related to my research activities.  <br>
 My main focus is **Network Pruning**, but in my spare time, I enjoy exploring graph-related problems and evolutionary computation ideas. I also occasionally teach—it’s part of the deal—and I’m actively involved in supervising student projects and theses. <br>
-Outside my research, I also do some fun stuff 😉, check out [here](https://www.strava.com/athletes/115437595) (🏃🏼‍♂️ 🚴🏻 🏊 ).
+<br>
+Outside my research, I also do some fun stuff 😉, check out <a href="https://www.strava.com/athletes/115437595"><img src="./images/strava-logo-png-4.webp" alt="Strava" width="40"></a> (🏃🏼‍♂️ 🚴🏻 🏊 ).
 
 
 
@@ -37,3 +38,4 @@ Updates 🔥
   <img src="images/neuroal_tab2.png" alt="Project logo" width="1000"/>
   <br>
 </p>
+ 

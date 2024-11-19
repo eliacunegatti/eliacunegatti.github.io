@@ -38,4 +38,4 @@ author_profile: true
 
 <hr style="border: 1px solid black;">
 
-*Kudos to all the co-authors!!* 🎉👌🏻 
+*Kudos to all the co-authors!!* 🎉👌🏻  

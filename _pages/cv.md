@@ -77,3 +77,4 @@ ___
 
 - **University of Trento Merit Scholarship**  
   *2019, 2020, 2021, 2022*  
+
