@@ -23,19 +23,21 @@ Updates 🔥
 ======
 
 
-> **12 Novemeber '24** - NeuroAL on ArXiv <br>
+> **10 January '24** - NeuroAL (updated) on ArXiv <br>
 *Zeroth-Order Adaptive Neuron Alignment Based Pruning without Re-Training* preprint is available on ArXiv. 
 [paper](https://arxiv.org/abs/2411.07066v1) [code](https://github.com/eliacunegatti/NeuroAL)
 
 **TLDR** an adaptive *top-up algorithm* for any pruning algorithm which select the optimal block-wise and row-wise sparsity distribution in a linear non-uniform way. 
 
-<p align="center">
-  <img src="images/neuroal_tab1.png" alt="Project logo" width="1000"/>
-  <br>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; width: fit-content;">
+  <img src="images/neuroal_tab1.png" alt="Image 1" width="400" />
+  <img src="images/neuroal_tab2.png" alt="Image 2" width="400" />
+</div>
+
+<br>
 
 <p align="center">
-  <img src="images/neuroal_tab2.png" alt="Project logo" width="1000"/>
+  <img src="images/neuraol_tab3.png" alt="Project logo" width="1000"/>
   <br>
 </p>
  
