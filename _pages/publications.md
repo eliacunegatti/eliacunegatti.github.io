@@ -32,6 +32,9 @@ author_profile: true
 {% if post.paperurl %} 
 <a href="{{ post.paperurl }}" target="_blank">Full Text</a>  
 {% endif %}
+{% if post.extra %} 
+<a href="{{ post.extra }}" target="_blank">Full Text</a>  
+{% endif %}
 {% endfor %}
 {% endif %}
 
@@ -39,3 +42,4 @@ author_profile: true
 <hr style="border: 1px solid black;">
 
 *Kudos to all the co-authors!!* 🎉👌🏻  
+

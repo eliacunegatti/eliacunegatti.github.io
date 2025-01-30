@@ -23,21 +23,12 @@ Updates 🔥
 ======
 
 
-> **10 January '24** - NeuroAL (updated) on ArXiv <br>
-*Zeroth-Order Adaptive Neuron Alignment Based Pruning without Re-Training* preprint is available on ArXiv. 
-[paper](https://arxiv.org/pdf/2411.07066?) [code](https://github.com/eliacunegatti/NeuroAL)
+> 30 January '25 - **NeuroAL (updated) on ArXiv** <br>
+*Zeroth-Order Adaptive Neuron Alignment Based Pruning without Re-Training* preprint is available on ArXiv. <br>
+[[paper]](https://arxiv.org/pdf/2411.07066?) [[code]](https://github.com/eliacunegatti/NeuroAL)
 
-**TLDR** an adaptive *top-up algorithm* for any pruning algorithm which select the optimal block-wise and row-wise sparsity distribution in a linear non-uniform way. 
+> 29 January '25 - **2SSP on ArXiv** <br>
+*2SSP: A Two-Stage Framework for Structured Pruning of LLMs* preprint is available on ArXiv. <br>
+[[paper]](https://arxiv.org/pdf/2501.17771) [[code]](https://github.com/FabrizioSandri/2SSP)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 0 auto; width: fit-content;">
-  <img src="images/neuroal_tab1.png" alt="Image 1" width="400" />
-  <img src="images/neuroal_tab2.png" alt="Image 2" width="400" />
-</div>
-
-<br>
-
-<p align="center">
-  <img src="images/neuraol_tab3.png" alt="Project logo" width="1000"/>
-  <br>
-</p>
- 
+  

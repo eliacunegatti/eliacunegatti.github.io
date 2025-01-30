@@ -7,10 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-
-## 🧬🦋🤖 Bio-Inspired Artificial Intelligence  
+## 🔢🧠🚀 Introduction to Machine Learning (BSc Course)
 ___
-**September 2024 – Ongoing**  
+**February 2025 – Ongoing**  
+Frontal lessons during lab classes.  
+
+### Lab Topics:
+- Introducion to Python
+- KNN
+- Classification and Regression
+- Introduction to PyTorch
+
+
+
+## 🧬🦋🤖 Bio-Inspired Artificial Intelligence (MSc Course)
+___
+**September 2024 – December 204**  
 Frontal lessons during lab classes.  
 
 ### Lab Topics:
@@ -27,7 +39,7 @@ For more details, check:
 
 
 
-## 📈🔍🧠 Optimization Techniques  
+## 📈🔍🧠 Optimization Techniques (MSc Course)
 ___
 **February 2024 – July 2024**  
 Frontal lessons during lab classes.  
@@ -46,9 +58,9 @@ For more details, check:
 
 
 
-## 💻🛠️⚙️ Computer Architectures  
+## 💻🛠️⚙️ Computer Architectures (BSc Course)
 ___
-**February 2023 – July 2024**  
+**February 2023 – Ongoing**  
 Responsibilities included:  
 - Exam material preparation  
 - Oral exam evaluations  
