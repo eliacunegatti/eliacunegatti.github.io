@@ -21,14 +21,17 @@ Outside my research, I also do some fun stuff 😉, check out <a href="https://w
 
 Updates 🔥
 ======
+> **NeuroAL** and **2SSP** accepted at ICLR 2025 @ Workshop on Sparsity in LLMs (SLLM)  
+- Zeroth-Order Adaptive Neuron Alignment Based Pruning without Re-Training <br>
+<a href="/files/NeuroAL-SLLM@ICLR2025.pdf" target="_blank" style="font-size: 13px; color: #24292f; text-decoration: none;">[SLLM-ICLR25]</a>
+<a href="https://github.com/eliacunegatti/NeuroAL" style="font-size: 14px;color: #0366d6;text-decoration: none;">[code]</a>
+<a href="https://arxiv.org/pdf/2411.07066?" style="font-size: 14px;color: #A00000;text-decoration: none;">[arxiv]</a>
+- 2SSP: A Two-Stage Framework for Structured Pruning of LLMs <br>
+<a href="/files/2SSP-SLLM@ICLR2025.pdf" target="_blank" style="font-size: 13px; color: #24292f; text-decoration: none;">
+[SLLM-ICLR25]</a>
+<a href="https://arxiv.org/pdf/2501.17771" style="font-size: 14px;color: #A00000;text-decoration: none;">[arxiv]</a>
+<a href="https://github.com/FabrizioSandri/2SSP" style="font-size: 14px;color: #0366d6;text-decoration: none;">[code]</a>
 
 
-> 30 January '25 - **NeuroAL (updated) on ArXiv** <br>
-*Zeroth-Order Adaptive Neuron Alignment Based Pruning without Re-Training* preprint is available on ArXiv. <br>
-[[paper]](https://arxiv.org/pdf/2411.07066?) [[code]](https://github.com/eliacunegatti/NeuroAL)
-
-> 29 January '25 - **2SSP on ArXiv** <br>
-*2SSP: A Two-Stage Framework for Structured Pruning of LLMs* preprint is available on ArXiv. <br>
-[[paper]](https://arxiv.org/pdf/2501.17771) [[code]](https://github.com/FabrizioSandri/2SSP)
 
   
