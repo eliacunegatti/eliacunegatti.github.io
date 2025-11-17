@@ -21,7 +21,7 @@ repository               : "eliacunegatti/eliacunegatti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg" # Place an image in /images/ and reference it here
+  avatar           : "IMG_8782.jpg" # Place an image in /images/ and reference it here
   name             : "Elia Cunegatti"
   pronouns         : # example: "she/her"  
   bio              : "3rd-Year PhD Student 🫠"
