@@ -13,7 +13,10 @@ Bio
 Hi everyone!  <br>
 I'm Elia Cunegatti, a fourth-year Ph.D. student at the University of Trento, Italy ⛰️.<br> 
 On this website, you’ll find everything related to my research activities.  <br>
-My main focus is **Network Pruning**, but in my spare time, I enjoy exploring graph-related problems and evolutionary computation ideas. I also occasionally teach—it’s part of the deal—and I’m actively involved in supervising student projects and theses. <br>
+
+My main focus is **Efficient Deep Learning**  where I work on making large models lighter, faster, and more resource-efficient through pruning, sparsity, and other model compression techniques. In my spare time, I enjoy exploring graph-related problems and evolutionary computation ideas. 
+
+I also occasionally teach and I’m actively involved in supervising student projects and theses. <br>
 
 <hr style="border: 1px solid #bbb; margin: 30px 0;" />
 
@@ -21,13 +24,20 @@ Updates 🔥
 ======
 
 
-💡 **Aug 17, 2025**  
+
+📝 **Nov 18th, 2025**  
+**NeuroAL** accepted at *Transactions on Machine Learning Research (TMLR)* 🎉  
+[paper](https://openreview.net/pdf?id=uPyNaNqFK2) · [code](https://github.com/eliacunegatti/NeuroAL)  
+
+---
+
+💡 **Aug 17th, 2025**  
 **2SSP** accepted at *Transactions on Machine Learning Research (TMLR)* 🎉  
 [paper](https://openreview.net/pdf?id=Qd7LzJBg21) · [code](https://github.com/FabrizioSandri/2SSP)  
 
 ---
 
-🌍 **Aug 1, 2025**  
+🌍 **Aug 1st, 2025**  
 Started as Visiting PhD at **Vrije Universiteit Amsterdam** 🇳🇱  
 
 
