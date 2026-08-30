@@ -23,24 +23,13 @@ I also occasionally teach and I’m actively involved in supervising student pro
 Updates 🔥
 ======
 
+🎉 **Aug 2026**<br>
+Two papers accepted at **EMNLP 2026**!<br>
+**From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression** — Findings · <a href="https://arxiv.org/abs/2606.02559">[paper]</a> <a href="https://github.com/eliacunegatti/SubFit">[code]</a><br>
+**Frequency Matters: Fast Model-Agnostic Data Curation for Pruning and Quantization** — Main Conference · <a href="https://arxiv.org/abs/2603.16105">[paper]</a> <a href="https://github.com/FrancescoMonaco/ZipCal">[code]</a>
+
+---
+
 💼 **Apr–Jun 2026**<br>
 <span style="display: inline-flex; align-items: center; gap: 10px;"><span><strong>Visiting PhD Scientist</strong> at <strong>Bristol Myers Squibb (CITRE)</strong> in Seville, Spain</span><img src="/images/Bristol%20Myers%20Squibb%20Logo.webp" alt="Bristol Myers Squibb logo" style="width: 130px; height: auto;"></span><br>
 Worked on generating Gene Regulatory Networks from scientific literature using Large Language Models, with Dr. Santiago Egea Gomez and Dr. Hannah Pliner.
-
----
-
-📝 **Jun 1st, 2026**<br>
-New preprint: **From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression**<br>
-<a href="https://arxiv.org/abs/2606.02559">[paper]</a>
-
----
-
-📝 **May 7th, 2026**<br>
-New preprint: **Hallucination as an Anomaly: Dynamic Intervention via Probabilistic Circuits**<br>
-<a href="https://arxiv.org/abs/2605.05953">[paper]</a>
-
----
-
-📝 **Mar 17th, 2026**<br>
-New preprint: **Frequency Matters: Fast Model-Agnostic Data Curation for Pruning and Quantization**<br>
-<a href="https://arxiv.org/abs/2603.16105">[paper]</a>
