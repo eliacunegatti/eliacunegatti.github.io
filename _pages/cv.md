@@ -7,74 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="/files/EliaCunegatti_CV.pdf" class="btn btn-primary" target="_blank">📄 Download My CV</a>
+<div class="cv-intro">
+  <p>Applied AI researcher focused on efficient LLMs, model compression, and post-training.</p>
+  <a href="/files/EliaCunegatti_CV.pdf" class="btn btn-primary" target="_blank" rel="noopener">Download full CV ↓</a>
+</div>
 
+<section class="cv-section">
+  <h2>Industry experience</h2>
+  <div class="cv-entry"><h3>Applied Scientist Intern</h3><p>Amazon Alexa AI · Turin, Italy</p><span>September 2026 — March 2027</span><p class="cv-entry__detail">Working on post-training for large language models.</p></div>
+  <div class="cv-entry"><h3>Visiting Scientist</h3><p>Bristol Myers Squibb (CITRE) · Seville, Spain</p><span>April — June 2026</span><p class="cv-entry__detail">Developed LLM-based methods to extract gene-regulatory interactions from scientific literature and construct gene-regulatory networks.</p></div>
+</section>
 
-## Education  
-___
-- **PhD in Computer Science**  
-  University of Trento, Trento, Italy 🇮🇹🏔️ <br>
-  *November 2022 – Ongoing*  
+<section class="cv-section">
+  <h2>Academic experience</h2>
+  <div class="cv-entry"><h3>PhD Researcher in Efficient Deep Learning</h3><p>University of Trento · Trento, Italy</p><span>November 2022 — Present</span><p class="cv-entry__detail">Research on model compression, sparsity, quantization, and scalable evaluation pipelines for large AI models.</p></div>
+  <div class="cv-entry"><h3>Visiting PhD Researcher</h3><p>Vrije Universiteit Amsterdam · Amsterdam, The Netherlands</p><span>August — October 2025</span><p class="cv-entry__detail">Investigated sparsity patterns for knowledge disentanglement in controller-based continual and meta reinforcement learning.</p></div>
+  <div class="cv-entry"><h3>Research Intern · Exchange Student</h3><p>University of Twente · Enschede, The Netherlands</p><span>March — July 2022</span><p class="cv-entry__detail">Applied AI to complex networks, linking network science and deep learning.</p></div>
+</section>
 
-- **Master's Degree in Computer Science**   
-  University of Trento, Trento, Italy  🇮🇹🏔️  <br>
-  *September 2020 – October 2022*  
-  Final Grade: *110 cum Laude/110*
+<section class="cv-section">
+  <h2>Education</h2>
+  <div class="cv-entry"><h3>PhD in Computer Science</h3><p>University of Trento · Trento, Italy</p><span>November 2022 — Present</span></div>
+  <div class="cv-entry"><h3>Master's Degree in Computer Science</h3><p>University of Trento · Trento, Italy · Final grade: 110 cum laude/110</p><span>September 2020 — October 2022</span></div>
+  <div class="cv-entry"><h3>Master's Degree in Computer Science · Erasmus Exchange</h3><p>University of Twente · Enschede, The Netherlands · GPA: 3.9</p><span>August 2021 — February 2022</span></div>
+  <div class="cv-entry"><h3>Bachelor's Degree in Information Engineering and Business Organization</h3><p>University of Trento · Trento, Italy · Final grade: 107/110</p><span>September 2017 — September 2020</span></div>
+</section>
 
-- **Master's Degree in Computer Science (*Exchange Student Erasmus Program*)**  
-  University of Twente, Enschede, The Netherlands 🇳🇱🚲🌧️  <br>
-  *August 2021 – February 2022*  
-  GPA: *3.9*
+<section class="cv-section">
+  <h2>Conferences</h2>
+  <div class="cv-entry"><h3>GECCO 2024</h3><p>The Genetic and Evolutionary Computation Conference · Melbourne, Australia</p><span>July 14–18, 2024</span></div>
+  <div class="cv-entry"><h3>CVPR 2024</h3><p>Computer Vision and Pattern Recognition · Seattle, WA, USA</p><span>June 17–21, 2024</span></div>
+  <div class="cv-entry"><h3>ICLR 2023 Workshop on Sparsity in Neural Networks</h3><p>Virtual attendance</p><span>May 5, 2023</span></div>
+  <div class="cv-entry"><h3>PPSN XVII</h3><p>Parallel Problem Solving from Nature · Dortmund, Germany</p><span>September 10–14, 2022</span></div>
+</section>
 
-- **Bachelor's Degree in Information Engineering and Business Organization**  
-  University of Trento, Trento, Italy 🇮🇹🏔️  <br>
-  *September 2017 – September 2020*  
-  Final Grade: *107/110*  
-
-
-
-## Research Experience  
-___
-- **Research Internship (Exchange Student)**  
-  University of Twente, Enschede, The Netherlands 🇳🇱🚲🌧️  <br>
-  *March 2022 – July 2022*  
-  - Project focused on applying AI to complex networks, linking Network Science and Deep Learning.  
-
-
-
-## Conferences  
-___
-- **GECCO 2024** - The Genetic and Evolutionary Computation Conference  
-  *July 14–18, 2024, Melbourne, Australia* 🇦🇺🐍
-
-- **CVPR 2024** - Computer Vision and Pattern Recognition  
-  *June 17–21, 2024, Seattle, WA, USA* 🇺🇸
-
-- **ICLR 2023 Workshop on Sparsity in Neural Networks**  
-  *May 5, 2023, Rwanda (Virtual Attendance)*  🇷🇼
-
-- **PPSN XVII** - Parallel Problem Solving from Nature  
-  *September 10–14, 2022, Dortmund, Germany*  🇩🇪🍺
-
-
-
-## Honors and Awards
-___  
-- **Scholarship for attending ICLR 2023 Conference**  
-  *May 2023*  
-
-- **Cisco Scholarship (awarded with [Matteo Farina](https://farinamatteo.github.io))**  
-  *May 2023*  
-
-- **Ph.D. Scholarship (University of Trento)**  
-  *November 2022 – November 2025*  
-
-- **Scholarship Research Abroad**  
-  *March 2022*  
-
-- **Erasmus+ Scholarship**  
-  *March 2021*  
-
-- **University of Trento Merit Scholarship**  
-  *2019, 2020, 2021, 2022*  
-
+<section class="cv-section">
+  <h2>Honors and awards</h2>
+  <div class="cv-awards">
+    <p><strong>Scholarship for attending ICLR 2023</strong><span>May 2023</span></p>
+    <p><strong>Cisco Scholarship</strong> · awarded with <a href="https://farinamatteo.github.io">Matteo Farina</a><span>May 2023</span></p>
+    <p><strong>PhD Scholarship · University of Trento</strong><span>November 2022 — November 2025</span></p>
+    <p><strong>Scholarship Research Abroad</strong><span>March 2022</span></p>
+    <p><strong>Erasmus+ Scholarship</strong><span>March 2021</span></p>
+    <p><strong>University of Trento Merit Scholarship</strong><span>2019 — 2022</span></p>
+  </div>
+</section>

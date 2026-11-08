@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Elia's Website"
+title                    : "Elia Cunegatti"
 title_separator          : "-"
 name                     : &name "Elia Cunegatti"
-description              : &description "PhD Student"
+description              : &description "PhD researcher in efficient deep learning, model compression, pruning, and sparsity."
 URL                      : "eliacunegatti/eliacunegatti.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eliacunegatti/eliacunegatti.github.io"

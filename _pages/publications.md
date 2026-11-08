@@ -7,24 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- Render publications with categories if defined -->
 {% if site.publication_category %}
 {% for category in site.publication_category %}
-## {{ category[1].title }}
----
-{% for post in site.publications reversed %}
-{% if post.category != category[0] %}
-{% continue %}
-{% endif %}
-**{{post.title}}**<br>
-{{ post.authors }}  
-{{ post.venue }}  
-<a href="{{ post.paperurl }}" target="_blank">Paper</a> {% if post.codeurl %}- <a href="{{ post.codeurl }}" target="_blank">Code</a>{% endif %}
-
-{% endfor %}
+{% assign category_posts = site.publications | where: "category", category[0] | sort: "date" | reverse %}
+<section class="publication-category">
+  <h2 class="publication-category__title">{{ category[1].title }}</h2>
+  <div class="publication-list">
+  {% for post in category_posts %}
+    <article class="publication-item">
+      <span class="publication-item__year">{{ post.date | date: "%Y" }}</span>
+      <div class="publication-item__content">
+        <h3>{{ post.title }}</h3>
+        <div class="publication-item__authors">{{ post.authors | markdownify }}</div>
+        <p class="publication-item__venue">{{ post.venue }}</p>
+      </div>
+      <div class="publication-item__links">
+        {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">Paper ↗</a>{% endif %}
+        {% if post.codeurl %}<a href="{{ post.codeurl }}" target="_blank" rel="noopener">Code ↗</a>{% endif %}
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+</section>
 {% endfor %}
 {% else %}
-<!-- Render all publications if no categories are defined -->
 {% for post in site.publications reversed %}
 #### {{ post.title }}
 **Authors:** {{ post.authors }}  
@@ -38,8 +44,4 @@ author_profile: true
 {% endfor %}
 {% endif %}
 
-
-<hr style="border: 1px solid black;">
-
-*Kudos to all the co-authors!!* 🎉👌🏻  
-
+<p class="publication-thanks">Great research is a team sport — kudos to all my co-authors.</p>
